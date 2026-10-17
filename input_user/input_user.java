@@ -7,6 +7,6 @@ public class input_user
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter your input");
 		int num = input.nextInt();
-		System.out.println(num);
+		System.out.println("num = "+num);
 		}
 	}
